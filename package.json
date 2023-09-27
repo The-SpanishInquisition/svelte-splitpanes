@@ -1,6 +1,6 @@
 {
 	"name": "blix-svelte-splitpanes",
-	"private": true,
+	"private": false,
 	"version": "0.8.1",
 	"description": "A full featured resizable pane layout splitter, ported from vue-splitpanes",
 	"author": {
